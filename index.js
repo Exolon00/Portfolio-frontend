@@ -1,6 +1,6 @@
 
 function downloadResume() {
-  window.open('./src/resume1.pdf', '_blank'); 
+  window.open('./src/resume12.pdf', '_blank'); 
 }
 
 document.addEventListener("DOMContentLoaded", function () {
